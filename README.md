@@ -1,6 +1,6 @@
 <h1>ExpNo 8 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python</h1> 
-<h3>Name:     VARSHINI S A          </h3>
-<h3>Register Number: 212222100059       </h3>
+<h3>Name:     Ragul R          </h3>
+<h3>Register Number: 212222100040       </h3>
 <H3>Aim:</H3>
 <p>
     To solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python
